@@ -1,0 +1,10 @@
+image,prompt,clip_score,identity_similarity,sharpness
+01_required_forest.png,"mivxq in a forest, close-up portrait of a man, realistic, high quality, cinematic, detailed",0.26917630434036255,0.8846467733383179,24.307763419251387
+02_required_city.png,"mivxq in a city, close-up portrait of a man, realistic, high quality, cinematic, detailed",0.24645182490348816,0.8813050389289856,18.461990708971825
+03_required_beach.png,"mivxq on a beach, close-up portrait of a man, realistic, high quality, cinematic, detailed",0.2899567186832428,0.8313988447189331,24.726808547449764
+04_cyberpunk.png,"photo of mivxq man in a cyberpunk city, close-up portrait, neon lights, realistic, high quality, cinematic, detailed",0.2818734645843506,0.7523578405380249,26.6452347957229
+05_robot_metal.png,"photo of mivxq man made of metal, robot style, close-up portrait, realistic, high quality, cinematic, detailed",0.3116702437400818,0.5426498651504517,103.82790132935679
+06_elf_city.png,"photo of mivxq man in an elf city, fantasy, close-up portrait, realistic, high quality, cinematic, detailed",0.3313975930213928,0.7243806719779968,29.551031012298154
+07_man_forest.png,"man in a forest, realistic, high quality, cinematic, detailed",0.30629897117614746,,30.86788132474976
+08_man_city.png,"man in a city, realistic, high quality, cinematic, detailed",0.2969455420970917,,41.27371786626463
+09_man_beach.png,"man on a beach, realistic, high quality, cinematic, detailed",0.3520852327346802,,37.52216243736529
